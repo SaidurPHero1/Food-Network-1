@@ -45,7 +45,7 @@ body{
 }
 .top-text{
     font-weight: bold; 
-    padding-top: 20%;
+    padding-top: 15%;
     font-size: 50px;
 }
 .order-text{
@@ -65,8 +65,8 @@ body{
     font-size: 15px;
 }
 .second-part{
-height: 600px;
-background-image: url(images/shapes/7.png);
+    height: 600px;
+    background-image: url(images/shapes/7.png);
 }
 .About{
     padding-top: 27%;
